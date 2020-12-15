@@ -1,0 +1,6 @@
+# Network weight files
+*_manta_spectro_epoch*
+
+# Backups
+.ipynb_checkpoints/
+.vscode/
